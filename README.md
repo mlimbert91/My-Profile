@@ -11,15 +11,18 @@ A project manager is a highly respected and important field in business. I perso
 <p>My own skills include: Moderate to Advanced knowledge of Microsoft Office and a basic understanding of most IT concepts. It is something that has been</p>
 <p>Currently, my own leadership skills would need to be improved dramatically, and my highest form of IT qualififcation is a certificate 2 from Vocational Training undertaken in high school. My life experiences have left me a somewhat anti social individual but I want to work on that as I feel I have the ability to hold a position like this but need the education to make it happen. Programming is something I have not dabbled in since creating an awfully edgy myspace page that I dare not link to in 2007. I had a somewhat working knowledge of CSS and a very basic understanding of HTML. So the programming aspect of my current curriculum will help immensely with my understanding of these concepts. Upon completion of my Bachelors in Information Technology I intend to enroll in a project management course.</p>
 <h2>Personality Test Results</h2>
-<b>Myer Briggs:</b> https://www.truity.com/personality-test/15717/test-results/9288809</p>
-<p><b>Online Learning:</b>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6</p>
-<p><b>Personality Test:</b>https://www.truity.com/personality-test/13683/test-results/9289875</p>
+<b>Myer Briggs:</b> 
+https://www.truity.com/personality-test/15717/test-results/9288809</p>
+<p><b>Online Learning:</b>
+http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6</p>
+<p><b>Personality Test:</b>
+https://www.truity.com/personality-test/13683/test-results/9289875</p>
 <p><b>What do the results of these tests mean for you?: </b> I believe that I am a very introverted person, I have had some... challenging life experiences in the last few years that have more than tested my ability to trust other people. The tests show that I may have some innate  creative problem solving ability and past experiences may support this, but if I am to apply these skills to a work environment I am first going to need to learn to both trust and work with a group or team as this course is making abundantly clear to me.</p>
 <p><b>How do you think these results may influence your behaviour in a team?:</b> I feel that I will be a reserved person but that I may perhaps contribute an integral idea. I will of course do my utmost to pull my weight where it is expected of me as should go without saying. I only ask that if someone sees me doing something wrong or if I am not meeting the requirements that they let me know before it becomes some kind of issue.</p>
 <p><b>How should you take this into account when forming a team?:</b> I suppose I should be open about the issues I am currently having with communication and look for a team who has someone with a defined leader so as I can take notes of some good leadership abilities and observe extroverted communication</p> 
 <h1>Project Overview: Yet Another SciFi Dystopia</h1>
 <h2>Motivation</h2>
-<p>Why?</p>
+<p>For the last 15 years, my best friend and I have been constructing an original sci fi universe set in a distant future where humanity has risen to great heights and fallen to terrible lows. Real civilisation is but a memory. Much of the planet has regressed technologically, and now the world is ruled by a warring corporate aristocracy. Our main cast of characters include a low level criminal dragged into a situation he could never have prepared for, an escaped war criminal and super soldier experiment who just wants to be left alone to engage in substance abuse and debauchery, an apathetic “superman” who has long since lost any sense of meaning and a Jaded detective going through the motions while he isolates himself from his family and friends with his increasingly disturbing behaviour. </p>
 <h2>Description</h2>
 <p>what</p>
 <h2>Skills Required</h2>
