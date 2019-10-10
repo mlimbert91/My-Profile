@@ -8,32 +8,50 @@
 <p>Email: s3818719@student.rmit.edu.au
 <p><b>My name is Matthew Limbert,</b> and I have loved using computers all my life. It would be no exaggeration to say that IT is something I am genuinely passionate about. My parents bought our first family computer when I was 5 years old and I was enraptured by the point and click adventure games and side scrollers that were available at the time, around 1996. Ever since then I have been fascinated with their function. I am quite skilled dealing with computer hardware but am looking to improve my software and programming abilities, as-well as seeking a recognizable qualification. As such I have enrolled in the Royal Melbourne Institute of Technology's online Bachelor of Information Technology course. During my time studying with RMIT I hope to increase my knowledge of computer systems and attain a qualification that I can use to apply for the types of jobs that I'd like to do.</p>
 <p>https://www.seek.com.au/job/39912981?searchrequesttoken=482a51ca-3081-4b71-9b38-313479ac8658&type=standout
-A project manager is a highly respected and important field in business. I personally know 2 people who already perform this role at a corporate level and a third who is currently training to. This job is usually high pressure but both personally and financially rewarding, with salaries often upwards of $150K. A project is an undertaking with a defined beginning and a required outcome. A project will often involve coordination between groups with vastly differing skills and backgrounds and requires someone to pool these recourses and effectively delegate operations to the most relevant teams.</p>
-<p>An IT Project manager would need some form of qualification in both information technology and project management. The skills required to perform the role of project manager are quite broad and include the coordination of multiple teams of people, the effective communication of defined goals and the role each unit plays in acheiving it, a broad knowledge of the concepts involved in the project field and the leadership skills to keep everyone on task.</p>
-<p>My own skills include: Moderate to Advanced knowledge of Microsoft Office and a basic understanding of most IT concepts. It is something that has been</p>
-<p>Currently, my own leadership skills would need to be improved dramatically, and my highest form of IT qualififcation is a certificate 2 from Vocational Training undertaken in high school. My life experiences have left me a somewhat anti social individual but I want to work on that as I feel I have the ability to hold a position like this but need the education to make it happen. Programming is something I have not dabbled in since creating an awfully edgy myspace page that I dare not link to in 2007. I had a somewhat working knowledge of CSS and a very basic understanding of HTML. So the programming aspect of my current curriculum will help immensely with my understanding of these concepts. Upon completion of my Bachelors in Information Technology I intend to enroll in a project management course.</p>
+The role of a Project Manager entails managing and delivering outcomes for projects as required by the organization within specified time, budget, risks and issues. The role also entails coordinating and managing workload among project team members to ensure agreed outcomes are achieved, monitoring and tracking the progress of the project using Project Management principles and Building and maintaining relationship with stakeholders through effective communication.
+
+To be able to get into Project Manager role one must have a Project Management qualification, should have experience in managing project and implementation, coordinating resource and budget management, and identifying and managing risk. Should also have extensive knowledge on project management applications and tools.
+
+For me to able to get into this role I will start by getting the required qualification for Project Management,  I will have to be involve in work projects until I get enough experience to be able to manage and coordinate a project on my own, Build my knowledge around tools and techniques relevant to project management. 
+ So the programming aspect of my current curriculum will help immensely with my understanding of these concepts. Upon completion of my Bachelors in Information Technology I intend to enroll in a project management course.</p>
 <h2>Personality Test Results</h2>
-<b>Myer Briggs:</b> 
-https://www.truity.com/personality-test/15717/test-results/9288809</p>
-<p><b>Online Learning:</b>
-http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6</p>
-<p><b>Personality Test:</b>
-https://www.truity.com/personality-test/13683/test-results/9289875</p>
-<p><b>What do the results of these tests mean for you?: </b> I believe that I am a very introverted person, I have had some... challenging life experiences in the last few years that have more than tested my ability to trust other people. The tests show that I may have some innate  creative problem solving ability and past experiences may support this, but if I am to apply these skills to a work environment I am first going to need to learn to both trust and work with a group or team as this course is making abundantly clear to me.</p>
-<p><b>How do you think these results may influence your behaviour in a team?:</b> I feel that I will be a reserved person but that I may perhaps contribute an integral idea. I will of course do my utmost to pull my weight where it is expected of me as should go without saying. I only ask that if someone sees me doing something wrong or if I am not meeting the requirements that they let me know before it becomes some kind of issue.</p>
-<p><b>How should you take this into account when forming a team?:</b> I suppose I should be open about the issues I am currently having with communication and look for a team who has someone with a defined leader so as I can take notes of some good leadership abilities and observe extroverted communication</p> 
-<h1>Project Overview: Yet Another SciFi Dystopia</h1>
-<h2>Motivation</h2>
-<p>For the last 15 years, my best friend and I have been constructing an original sci fi universe set in a distant future where humanity has risen to great heights and fallen to terrible lows. Real civilisation is but a memory. Much of the planet has regressed technologically, and now the world is ruled by a warring corporate aristocracy. Our main cast of characters include a low level criminal dragged into a situation he could never have prepared for, an escaped war criminal and super soldier experiment who just wants to be left alone to engage in substance abuse and debauchery, an apathetic “superman” who has long since lost any sense of meaning and a Jaded detective going through the motions while he isolates himself from his family and friends with his increasingly disturbing behaviour. </p>
-<h2>Description</h2>
-<p>“Yet Another Sci-Fi Dystopia” Is the Project title for a yet unnamed series of novels, comic books, tabletop roleplaying games and animated videos set primarily in a ruined ‘mega-city’ which was once the seat of power of a technologically advanced civilisation. The city, and the society that once bloomed within has since fallen to ruin. Several catastrophic plagues of unknown and perhaps sinister origin began to take hold and spread rapidly in the cramped, overpopulated conditions in the teeming urban landscape, killing billions. The resulting conflict over resources and technology saw thoroughly to the collapse of any real government, although there are some organisations who still claim to have the authority to punish lawbreakers, these organisations are powerless to enforce the law against someone with greater resources than they can muster at any given time, leaving those with the wealth and means to enforce their will to step in to the power vacuum left behind and claim ownership of the ruined world. This has led to a state of perpetual cold war as wealthy organisations focus on hoarding wealth and finding ancient weapons to posture against their enemies. 35 years prior to the events of the story, the earth was struck by a calamitous asteroid impact that caused catastrophic climate damage and completely irradiated the planet with a little understood form of background energy that causes random mutation of both humans and animals alike, meaning that food can only be grown in sterile conditions like the corporate owned arcologies inside the heavily fortified “Upper City”. Gangs of marauding mutants terrorise the metropolitan wasteland between fortified bastions of civilisation and twisted mutated creatures’ prey upon any foolish or greedy enough to venture far from their doors looking for ancient lost technology or to gather resources to sell or recycle. City gang leaders struggle for control over what wealth there is to obtain, and peddle debauchery and corruption through increasingly violent displays of power.
-The ultimate goal of this project is to create and complete the first “arc” of a story about the main cast of characters meeting and forming a rag tag gang of miscreants who come together to battle against corporate tyranny and a timeless eldritch horror bent on unleashing a horde of demonic entities and consuming the souls what remains of mankind. 
-The first set of releases planned would be a series of comic strips focusing on events revolving around the main cast of characters coming to meet one another and how they become embroiled in corporate conspiracy and street gang warfare, followed by individual character establishment stories including flashbacks to show how each character became the person they are.
-This will involve the coordinated input from a creative team of several writers and artists, drawing upon years of world building notes. The writers and artists will need to follow an established “theme” when constructing the fictional universe, and keep to pre established character designs and work simultaneously with various other media teams.</p>
-<h2>Tools and Technologies</h2>
-<p>A multimedia project of this scale would require a timeline manager for both the operations of the teams and for the internal fiction itself. Something like Office Timeline or a similar program. We would obviously also be using the Adobe Creative Suite (Photoshop etc) for the creation of vidual media and/or promotional material. Webhosting would also be required and the ability to display the comic and other related material in correct order. Tumblr can serve this purpose and even offers domain hosting, however it may be more appropriate to build the site from scratch to fully customise the display, as the medium is very visual. Additionally, all writing, including plot structures and dialogue boxes should be uploaded to a google docs account for other writers to reference. .</p>
-<h2>Skills Required </h2>
-<p>”Yet Another Si-Fi Dystopia” is a multimedia project spanning several different mediums. This project requires advanced graphic design and fine art skills to produce the planned comic strips and visual novels of the first release “arc”. The world the story is set in needs to be seamlessly interconnected and events that change an aspect of the world need to be documented and written around if need be. Therefore, a team of creative writers with the skill to produce and document the more detailed aspects of the world must coordinate with background artists. These teams would need to be coordinated by a skilled project manager working with the creative director to ensure the quality of the finished product </p>
-<h2>Outcome</h2>
-<p>Upon successful completion of this project, the release of a 26-chapter comic book and a visual novel would be achieved. The artwork would be of a stylized and gritty pseudo manga style used by some north American comic books today. The popularity of the release would not be as important to the creative director, who is the owner of the intellectual property, as what he would call the final quality of the work. </p>
+<b>I am a Logistician ISTJ</b> 
+https://www.opencolleges.edu.au/careers/career-quiz/result/the-logistician-m</p>
+<p>ISTJ STRENGTHS
+Honest: ISTJs prize personal integrity and being truthful.
+
+Responsible: You can trust an ISTJ to do exactly what they have promised to do, even if it is at a personal cost to themselves.
+
+Practical: ISTJs make clear decisions based on facts and reason. They prefer work that has practical rather than theoretical outcomes.
+
+Create order: ISTJs make sure to communicate goals, rules and guidelines clearly so that everyone involved knows how to achieve their common goals. They have low tolerance for missed deadlines or setbacks that could have been prevented.
+
+Jack-of-all-trades: ISTJs are able to retain a lot of knowledge around facts and statistics, and can apply this information in a variety of situations.
+
+ISTJ WEAKNESSES
+Judgemental: ISTJs tend not to respect those who disagree or choose to ignore the facts.
+
+Insensitive: Because honesty is so important to an ISTJ, they are unlikely to take others’ feelings into account when the truth needs to be told.
+
+Stubborn: There’s no arguing with the facts, and ISTJs will resist new ideas that aren’t factually supported.
+
+Stick to the rules: ISTJs love a clear structure and are most uncomfortable in situations that are less clearly defined, or where rules can be bent.
+
+Take the blame: ISTJs hold themselves to such high standards that if an outcome is less than perfect, they will hold themselves accountable and berate themselves for things they should have done differently.
+
+WHAT ISTJS LOOK FOR IN A CAREER
+Stability: ISTJs dislike change and prefer roles that have proven longevity, often in more traditional organisations or institutions.
+
+Clear hierarchy: ISTJs need to know who is responsible for what and who is in charge. A clear organisational hierarchy is important to them.
+
+Structure: ISTJs value work that responds to logic and facts and has clearly defined rules.
+
+Responsibility: ISTJs love being given responsibility; it’s proof that they are trusted and are the best person for the job.</p>
+
+<p><b>The results of this test indicates that I have a logic driven mindset and work best with form goals in mind and a clear organisational heirarchy. I have a tendancy to take on alot of responsibility and take on alot of pressure and blame myself when things go wrong, and the truth is more important to me than the feelings of other people.</p>
+  
+<p><b>How do you think these results may influence your behaviour in a team?:</b> In a team situation I have a tendancy to want to follow a clearly defined leader, however if no clear direction is taking place and things seem disorganised I will feel the need to step up and make things happen as a lack of organisation makes me anxious regarding the results.</p>
+<p><b>How should you take this into account when forming a team?:</b> I need a team that is willing to understand that if I say something that seem blunt I am simply trying to get to the point of the matter and do not mean to be abrasive. I am driven by getting to the clear truth of the matter and value the integrity of my own work and expect the same from others.</p> 
+
+
 
