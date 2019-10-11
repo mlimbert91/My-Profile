@@ -16,9 +16,9 @@ To be able to get into the role of Project Manager, one must have a Project Mana
 To be considered for this role, I will start by acquiring the required qualification for Project Management and attain experience in project management by being involved in work projects until I gain enough experience to be able to manage and coordinate a project on my own, and build my knowledge around tools and techniques relevant to project management. 
 </p>
 <h2>Personality Test Results</h2>
-A personality test taken at https://psychcentral.com suggests that my defining personality traits are a high level of neuroticism and open mindedness. This means that I may be prone to negativity and anxiety but have a high degree of creativity and enjoy the discussion of new ideas. This test also described me as “somewhat organized” which is a fair enough description of me. I tend to approach things from a very organized starting point but because I have ADHD I am easily distracted and end up working on multiple things at once, sometimes to my detriment.
+A personality test taken at https://psychcentral.com suggests that my defining personality traits are a high level of neuroticism and open mindedness. This means that I may be prone to negativity and anxiety but have a high degree of creativity and enjoy the discussion of new ideas. This test also described me as “somewhat organized” which is a fair enough description of me. I tend to approach things from a very organized starting point but because I have ADHD I am easily distracted and end up working on multiple things at once, sometimes to my detriment.</p>
 
-<b>I am a Logistician ISTJ</b> 
+<p><b>I am a Logistician ISTJ</b> 
 https://www.opencolleges.edu.au/careers/career-quiz/result/the-logistician-m</p>
 <p><b>ISTJ STRENGTHS</b>
 <p><b>Honest:</b> ISTJs prize personal integrity and being truthful.
@@ -31,8 +31,8 @@ https://www.opencolleges.edu.au/careers/career-quiz/result/the-logistician-m</p>
 
 <b>Jack-of-all-trades:</b> ISTJs are able to retain a lot of knowledge around facts and statistics, and can apply this information in a variety of situations.
 
-<b>ISTJ WEAKNESSES</b>
-<b>Judgemental:</b> ISTJs tend not to respect those who disagree or choose to ignore the facts.
+<p><b>ISTJ WEAKNESSES</b></p>
+<p><b>Judgemental:</b> ISTJs tend not to respect those who disagree or choose to ignore the facts.
 
 <b>Insensitive:</b> Because honesty is so important to an ISTJ, they are unlikely to take others’ feelings into account when the truth needs to be told.
 
