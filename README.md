@@ -10,10 +10,11 @@
 <p>https://www.seek.com.au/job/39912981?searchrequesttoken=482a51ca-3081-4b71-9b38-313479ac8658&type=standout
 The role of a Project Manager entails managing and delivering outcomes for projects as required by the organization within specified time, budget, risks and issues. The role also entails coordinating and managing workload among project team members to ensure agreed outcomes are achieved, monitoring and tracking the progress of the project using Project Management principles and Building and maintaining relationship with stakeholders through effective communication.
 
-To be able to get into Project Manager role one must have a Project Management qualification, should have experience in managing project and implementation, coordinating resource and budget management, and identifying and managing risk. Should also have extensive knowledge on project management applications and tools.
+The role of a Project Manager involves managing and delivering outcomes for projects as required by the organization within specified time, budget and risk constraints. The role also entails coordinating and managing workload among project team members to ensure agreed outcomes are achieved, monitoring and tracking the progress of the project using Project Management principles and building and maintaining relationship with stakeholders through effective communication.
 
-For me to able to get into this role I will start by getting the required qualification for Project Management,  I will have to be involve in work projects until I get enough experience to be able to manage and coordinate a project on my own, Build my knowledge around tools and techniques relevant to project management. 
- So the programming aspect of my current curriculum will help immensely with my understanding of these concepts. Upon completion of my Bachelors in Information Technology I intend to enroll in a project management course.</p>
+To be able to get into the role of Project Manager, one must have a Project Management qualification, should have experience in managing project and implementation, coordinating resource and budget management and identifying and managing risk. One should also have extensive knowledge on project management applications and tools.
+To be considered for this role, I will start by acquiring the required qualification for Project Management and attain experience in project management by being involved in work projects until I gain enough experience to be able to manage and coordinate a project on my own, and build my knowledge around tools and techniques relevant to project management. 
+</p>
 <h2>Personality Test Results</h2>
 <b>I am a Logistician ISTJ</b> 
 https://www.opencolleges.edu.au/careers/career-quiz/result/the-logistician-m</p>
@@ -48,7 +49,8 @@ Structure: ISTJs value work that responds to logic and facts and has clearly def
 
 Responsibility: ISTJs love being given responsibility; it’s proof that they are trusted and are the best person for the job.</p>
 
-<p><b>The results of this test indicates that I have a logic driven mindset and work best with form goals in mind and a clear organisational heirarchy. I have a tendancy to take on alot of responsibility and take on alot of pressure and blame myself when things go wrong, and the truth is more important to me than the feelings of other people.</p>
+<b>Career's Quiz Results</b>
+<p>The results of this test indicates that I have a logic driven mindset and work best with form goals in mind and a clear organisational heirarchy. I have a tendancy to take on alot of responsibility and take on alot of pressure and blame myself when things go wrong, and the truth is more important to me than the feelings of other people.</p>
   
 <p><b>How do you think these results may influence your behaviour in a team?:</b> In a team situation I have a tendancy to want to follow a clearly defined leader, however if no clear direction is taking place and things seem disorganised I will feel the need to step up and make things happen as a lack of organisation makes me anxious regarding the results.</p>
 <p><b>How should you take this into account when forming a team?:</b> I need a team that is willing to understand that if I say something that seem blunt I am simply trying to get to the point of the matter and do not mean to be abrasive. I am driven by getting to the clear truth of the matter and value the integrity of my own work and expect the same from others.</p> 
