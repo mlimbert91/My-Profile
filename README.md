@@ -19,6 +19,7 @@ To be considered for this role, I will start by acquiring the required qualifica
 A personality test taken at https://psychcentral.com suggests that my defining personality traits are a high level of neuroticism and open mindedness. This means that I may be prone to negativity and anxiety but have a high degree of creativity and enjoy the discussion of new ideas. This test also described me as “somewhat organized” which is a fair enough description of me. I tend to approach things from a very organized starting point but because I have ADHD I am easily distracted and end up working on multiple things at once, sometimes to my detriment.</p>
 
 <p><b>I am a Logistician ISTJ</b> 
+  <p>The results of this test indicates that I have a logic driven mindset and work best with form goals in mind and a clear organisational heirarchy. I have a tendancy to take on alot of responsibility and take on alot of pressure and blame myself when things go wrong, and the truth is more important to me than the feelings of other people.</p>
 https://www.opencolleges.edu.au/careers/career-quiz/result/the-logistician-m</p>
 <p><b>ISTJ STRENGTHS</b>
 <p><b>Honest:</b> ISTJs prize personal integrity and being truthful.
@@ -52,7 +53,6 @@ https://www.opencolleges.edu.au/careers/career-quiz/result/the-logistician-m</p>
 <b>Responsibility:</b> ISTJs love being given responsibility; it’s proof that they are trusted and are the best person for the job.</p>
 
 <b>Career's Quiz Results</b>
-<p>The results of this test indicates that I have a logic driven mindset and work best with form goals in mind and a clear organisational heirarchy. I have a tendancy to take on alot of responsibility and take on alot of pressure and blame myself when things go wrong, and the truth is more important to me than the feelings of other people.</p>
   
 <p><b>How do you think these results may influence your behaviour in a team?:</b> In a team situation I have a tendancy to want to follow a clearly defined leader, however if no clear direction is taking place and things seem disorganised I will feel the need to step up and make things happen as a lack of organisation makes me anxious regarding the results.</p>
 <p><b>How should you take this into account when forming a team?:</b> I need a team that is willing to understand that if I say something that seem blunt I am simply trying to get to the point of the matter and do not mean to be abrasive. I am driven by getting to the clear truth of the matter and value the integrity of my own work and expect the same from others.</p> 
