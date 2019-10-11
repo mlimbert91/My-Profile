@@ -16,38 +16,40 @@ To be able to get into the role of Project Manager, one must have a Project Mana
 To be considered for this role, I will start by acquiring the required qualification for Project Management and attain experience in project management by being involved in work projects until I gain enough experience to be able to manage and coordinate a project on my own, and build my knowledge around tools and techniques relevant to project management. 
 </p>
 <h2>Personality Test Results</h2>
+A personality test taken at https://psychcentral.com suggests that my defining personality traits are a high level of neuroticism and open mindedness. This means that I may be prone to negativity and anxiety but have a high degree of creativity and enjoy the discussion of new ideas. This test also described me as “somewhat organized” which is a fair enough description of me. I tend to approach things from a very organized starting point but because I have ADHD I am easily distracted and end up working on multiple things at once, sometimes to my detriment.
+
 <b>I am a Logistician ISTJ</b> 
 https://www.opencolleges.edu.au/careers/career-quiz/result/the-logistician-m</p>
-<p>ISTJ STRENGTHS
-Honest: ISTJs prize personal integrity and being truthful.
+<p><b>ISTJ STRENGTHS</b>
+<p><b>Honest:</b> ISTJs prize personal integrity and being truthful.
 
-Responsible: You can trust an ISTJ to do exactly what they have promised to do, even if it is at a personal cost to themselves.
+<b>Responsible:</b> You can trust an ISTJ to do exactly what they have promised to do, even if it is at a personal cost to themselves.
 
-Practical: ISTJs make clear decisions based on facts and reason. They prefer work that has practical rather than theoretical outcomes.
+<b>Practical:</b> ISTJs make clear decisions based on facts and reason. They prefer work that has practical rather than theoretical outcomes.
 
-Create order: ISTJs make sure to communicate goals, rules and guidelines clearly so that everyone involved knows how to achieve their common goals. They have low tolerance for missed deadlines or setbacks that could have been prevented.
+<b>Create order:</b> ISTJs make sure to communicate goals, rules and guidelines clearly so that everyone involved knows how to achieve their common goals. They have low tolerance for missed deadlines or setbacks that could have been prevented.
 
-Jack-of-all-trades: ISTJs are able to retain a lot of knowledge around facts and statistics, and can apply this information in a variety of situations.
+<b>Jack-of-all-trades:</b> ISTJs are able to retain a lot of knowledge around facts and statistics, and can apply this information in a variety of situations.
 
-ISTJ WEAKNESSES
-Judgemental: ISTJs tend not to respect those who disagree or choose to ignore the facts.
+<b>ISTJ WEAKNESSES</b>
+<b>Judgemental:</b> ISTJs tend not to respect those who disagree or choose to ignore the facts.
 
-Insensitive: Because honesty is so important to an ISTJ, they are unlikely to take others’ feelings into account when the truth needs to be told.
+<b>Insensitive:</b> Because honesty is so important to an ISTJ, they are unlikely to take others’ feelings into account when the truth needs to be told.
 
-Stubborn: There’s no arguing with the facts, and ISTJs will resist new ideas that aren’t factually supported.
+<b>Stubborn:</b> There’s no arguing with the facts, and ISTJs will resist new ideas that aren’t factually supported.
 
-Stick to the rules: ISTJs love a clear structure and are most uncomfortable in situations that are less clearly defined, or where rules can be bent.
+<b>Stick to the rules:</b> ISTJs love a clear structure and are most uncomfortable in situations that are less clearly defined, or where rules can be bent.
 
-Take the blame: ISTJs hold themselves to such high standards that if an outcome is less than perfect, they will hold themselves accountable and berate themselves for things they should have done differently.
+<b>Take the blame:</b> ISTJs hold themselves to such high standards that if an outcome is less than perfect, they will hold themselves accountable and berate themselves for things they should have done differently.
 
-WHAT ISTJS LOOK FOR IN A CAREER
-Stability: ISTJs dislike change and prefer roles that have proven longevity, often in more traditional organisations or institutions.
+<b>WHAT ISTJS LOOK FOR IN A CAREER</b>
+<p><b>Stability:</b> ISTJs dislike change and prefer roles that have proven longevity, often in more traditional organisations or institutions.
 
-Clear hierarchy: ISTJs need to know who is responsible for what and who is in charge. A clear organisational hierarchy is important to them.
+<b>Clear hierarchy:</b> ISTJs need to know who is responsible for what and who is in charge. A clear organisational hierarchy is important to them.
 
-Structure: ISTJs value work that responds to logic and facts and has clearly defined rules.
+<b>Structure:</b> ISTJs value work that responds to logic and facts and has clearly defined rules.
 
-Responsibility: ISTJs love being given responsibility; it’s proof that they are trusted and are the best person for the job.</p>
+<b>Responsibility:</b> ISTJs love being given responsibility; it’s proof that they are trusted and are the best person for the job.</p>
 
 <b>Career's Quiz Results</b>
 <p>The results of this test indicates that I have a logic driven mindset and work best with form goals in mind and a clear organisational heirarchy. I have a tendancy to take on alot of responsibility and take on alot of pressure and blame myself when things go wrong, and the truth is more important to me than the feelings of other people.</p>
