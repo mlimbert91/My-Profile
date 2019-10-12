@@ -17,6 +17,18 @@ To be considered for this role, I will start by acquiring the required qualifica
 </p>
 <h2>Personality Test Results</h2>
 A personality test taken at https://psychcentral.com suggests that my defining personality traits are a high level of neuroticism and open mindedness. This means that I may be prone to negativity and anxiety but have a high degree of creativity and enjoy the discussion of new ideas. This test also described me as “somewhat organized” which is a fair enough description of me. I tend to approach things from a very organized starting point but because I have ADHD I am easily distracted and end up working on multiple things at once, sometimes to my detriment.</p>
+<p>A learning style test taken at http://www.educationplanner.org suggests that my primary learning style is visual. This means that I learn best using visual aids such as pictures and by reading. I remember things by sight and like to close their eyes to visualise or remember something. Spoken directions may prove challenging for a visual learner to follow, and they may be easily distracted by sounds.
+Visual learners are usually neat and clean,
+Education Planner has the following suggestions for learners of this style.
+
+•	Have your eyesight checked on a regular basis.  
+•	Use flashcards to learn new words.  
+•	Try to visualize things that you hear or things that are read to you.  
+•	Write down key words, ideas, or instructions.  
+•	Draw pictures to help explain new concepts and then explain the pictures.  
+•	Color code things.  
+•	Avoid distractions during study times.  
+
 
 <p><b>I am a Logistician ISTJ</b> 
   <p>The results of this test indicates that I have a logic driven mindset and work best with form goals in mind and a clear organisational heirarchy. I have a tendancy to take on alot of responsibility and take on alot of pressure and blame myself when things go wrong, and the truth is more important to me than the feelings of other people.</p>
